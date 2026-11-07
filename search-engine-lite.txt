@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: Search Engine Lite (Baidu / Sogou / 360 / Bing / DuckDuckGo / Google / Bilibili / Douyin / YouTube / Zhihu / Weibo / Tieba / Netdisk / 123Pan / Toutiao / QQ / 163 / GitHub)
+! Title: Search Engine Lite 
 ! Description: Search-engine and site filtering rules converted for uBlock Origin Lite (DNR-compatible). Covers Baidu, Sogou, 360 Search, Bing (cn+intl), DuckDuckGo, Google, Bilibili, Douyin, YouTube, Zhihu, Weibo, Baidu Tieba, Baidu Netdisk, 123Pan, Toutiao, QQ.com, 163.com, GitHub.
 ! Homepage: https://github.com/LYB-Athena/uBOL-list
 ! License: https://github.com/LYB-Athena/uBOL-list/blob/main/LICENSE
